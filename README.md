@@ -4,18 +4,18 @@
 -\//pushed here from time to time.
 -\//yes, it is posted in C even though it does not function...
 
--\#include <stdio.h>
--\#include <string.h>
--\#include <fstream>
--\#include <stdlib.h>
--\#include <math.h>
--\#include <time.h>
+-include <stdio.h>
+-include <string.h>
+-include <fstream>
+-include <stdlib.h>
+-include <math.h>
+-include <time.h>
 
 -int main (int argc, char *argv[])
--\{
+-{
 -  for (i=0;i<size;i++){  
 -  char url[i] = 
-- \{"https://mitre-attack.github.io/attack-navigator/",                                    // Att&ck Navigator for CTI
+- {"https://mitre-attack.github.io/attack-navigator/",                                    // Att&ck Navigator for CTI
 -  "https://mitre-attack.github.io/attack-navigator/v2/enterprise/",                      // Att&ck "Enterprise" page
 -  "https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf",  // Att&ck training doc
 -  "https://www.youtube.com/watch?v=CfOl_yZDRnE",                                         // Youtube "Navigator" overview
@@ -35,18 +35,18 @@
 -  fs.open(url);
 -  fs.close();
 -  return 0;
--\}
+-}
 
 
--\//📫 How to reach me                        
+-📫 How to reach me                        
 -for (i=0; i<3;i++){
 -char items[i]=
   
--\{ "collaboration",
+-{ "collaboration",
 -  "comments",
 -  "concerns",
 -  "Cyb3rW1ll.git@gmail.com"};
  
 -printf("items: %s", i);
--\}
+-}
 -return 0;
