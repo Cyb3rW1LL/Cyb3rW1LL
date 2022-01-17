@@ -16,22 +16,24 @@
 -  for (i=0;i<size;i++){  
 -  char url[i] ={
 ```
-- "https://mitre-attack.github.io/attack-navigator/",                                    \// Att&ck Navigator for CTI
-- "https://mitre-attack.github.io/attack-navigator/v2/enterprise/",                      \// Att&ck "Enterprise" page
-- "https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf",  \// Att&ck training doc
-- "https://www.youtube.com/watch?v=CfOl_yZDRnE",                                         \// Youtube "Navigator" overview
-- "https://github.com/center-for-threat-informed-defense/attack-workbench-frontend",     \// Att&ack Workbench
-- "https://engage.mitre.org/",                                                           \// Engage page (Defense side of Att&ck
-- "https://engage.mitre.org/matrix/",                                                    \// Engage Matrix
-- "https://www.youtube.com/watch?v=PdCQChYrxXg",                                         \// Threat Hunting for post Exploitation with ES
-- "https://rocknsm.io/",                                                                 \// Useful collection and hunting platform
-- "https://download.rocknsm.io/isos/testing/",                                           \// Collection and Hunting platform ISOs, legacy only("Stable" no longer available)
-- "https://www.youtube.com/watch?v=SA-HeOnOi2A",                                         \// VECTR Explanation
-- "https://github.com/redcanaryco/atomic-red-team",                                      \// Atomic, what more can I say?
-- "https://www.youtube.com/watch?v=d_E-hfKQ5Hw",                                         \// Atomic Demo
-- "https://www.youtube.com/watch?v=7dEfKn70HCI",                                         \// Eric Conrad on Sysmon and Mimi*
-- "https://www.youtube.com/watch?v=RdcCjDS0s6s",                                         \// Threathunting via DNS E.C.
-- "https://www.youtube.com/watch?v=LVSwYyDN2Sk"                                          \// Build it Once, build it right! E.C.
+|URL | Description|
+|[](url)"https://mitre-attack.github.io/attack-navigator/", |\// Att&ck Navigator for CTI|
+|[](url)"https://mitre-attack.github.io/attack-navigator/v2/enterprise/", |\// Att&ck "Enterprise" page|
+|[](url)"https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf", |\// Att&ck training doc|
+|[](url)"https://www.youtube.com/watch?v=CfOl_yZDRnE", |\// Youtube "Navigator" overview|
+|[](url)"https://github.com/center-for-threat-informed-defense/attack-workbench-frontend", |\// Att&ack Workbench|
+|[](url)"https://engage.mitre.org/", | \// Engage page (Defense side of Att&ck|
+|[](url)"https://engage.mitre.org/matrix/", |\// Engage Matrix|
+|[](url)"https://www.youtube.com/watch?v=PdCQChYrxXg", |\// Threat Hunting for post Exploitation with ES|
+|[](url)"https://rocknsm.io/", |\// Useful collection and hunting platform|
+|[](url)"https://download.rocknsm.io/isos/testing/", |\// Collection and Hunting platform ISOs, legacy only("Stable" no longer| available)
+|[](url)"https://www.youtube.com/watch?v=SA-HeOnOi2A", |\// VECTR Explanation|
+|[](url)"https://github.com/redcanaryco/atomic-red-team", |\// Atomic, what more can I say?|
+|[](url)"https://www.youtube.com/watch?v=d_E-hfKQ5Hw", |\// Atomic Demo|
+|[](url)"https://www.youtube.com/watch?v=7dEfKn70HCI", |\// Eric Conrad on Sysmon and Mimi*|
+|[](url)"https://www.youtube.com/watch?v=RdcCjDS0s6s", |\// Threathunting via DNS E.C.|
+|[](url)"https://www.youtube.com/watch?v=LVSwYyDN2Sk" |\// Build it Once, build it right! E.C.|
+
 ```C
   };
 std::fstream fs;
