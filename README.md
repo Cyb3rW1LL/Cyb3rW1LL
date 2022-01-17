@@ -16,14 +16,14 @@
 -  for (i=0;i<size;i++){  
 -  char url[i] ={
 ```
--  "https://mitre-attack.github.io/attack-navigator/",                                    \// Att&ck Navigator for CTI
--  "https://mitre-attack.github.io/attack-navigator/v2/enterprise/",                      \// Att&ck "Enterprise" page
--  "https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf",  \// Att&ck training doc
--  "https://www.youtube.com/watch?v=CfOl_yZDRnE",                                         \// Youtube "Navigator" overview
--  "https://github.com/center-for-threat-informed-defense/attack-workbench-frontend",     \// Att&ack Workbench
--  "https://engage.mitre.org/",                                                           \// Engage page (Defense side of Att&ck
--  "https://engage.mitre.org/matrix/",                                                    \// Engage Matrix
--  "https://www.youtube.com/watch?v=PdCQChYrxXg",                                         \// Threat Hunting for post Exploitation with ES
+-  >"https://mitre-attack.github.io/attack-navigator/",                                    \// Att&ck Navigator for CTI
+-  >"https://mitre-attack.github.io/attack-navigator/v2/enterprise/",                      \// Att&ck "Enterprise" page
+-  >"https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf",  \// Att&ck training doc
+-  >"https://www.youtube.com/watch?v=CfOl_yZDRnE",                                         \// Youtube "Navigator" overview
+-  >"https://github.com/center-for-threat-informed-defense/attack-workbench-frontend",     \// Att&ack Workbench
+-  >"https://engage.mitre.org/",                                                           \// Engage page (Defense side of Att&ck
+-  >"https://engage.mitre.org/matrix/",                                                    \// Engage Matrix
+-  >[](url)"https://www.youtube.com/watch?v=PdCQChYrxXg",                                         \// Threat Hunting for post Exploitation with ES
 -  "https://rocknsm.io/",                                                                 \// Useful collection and hunting platform
 -  "https://download.rocknsm.io/isos/testing/",                                           \// Collection and Hunting platform ISOs, legacy only("Stable" no longer available)
 -  "https://www.youtube.com/watch?v=SA-HeOnOi2A",                                         \// VECTR Explanation
@@ -45,13 +45,13 @@ return 0;
 ```
 for (j=0; j<3;j++){
 char items[j]=
-  
 { "collaboration",
   "comments",
   "concerns",
  ```
-  "Cyb3rW1ll.git@gmail.com"};
- ```
+  "Cyb3rW1ll.git@gmail.com"
+```
+ };
 printf("items: %s", j);
 }
 return 0;
