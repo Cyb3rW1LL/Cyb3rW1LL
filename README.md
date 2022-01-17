@@ -1,0 +1,16 @@
+- 
+-
+- This github is dedicated toward idea sharing, school projects, and all things Cyber Security
+- Dedicated topics in Security, CTI, CTE, Threat Modeling and Detections, and coding will be
+- pushed here from time to time.
+- 
+-
+-
+- 📫 How to reach me
+-
+- For...
+-  collaboration
+-  comments
+-  concerns
+-  Cyb3rW1ll.git@gmail.com
+
