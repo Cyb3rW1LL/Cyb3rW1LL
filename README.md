@@ -12,7 +12,7 @@
 -include <time.h>
 
 -int main (int argc, char *argv[])
--{
+{
 -  for (i=0;i<size;i++){  
 -  char url[i] = 
 - {"https://mitre-attack.github.io/attack-navigator/",                                    // Att&ck Navigator for CTI
@@ -35,18 +35,18 @@
 -  fs.open(url);
 -  fs.close();
 -  return 0;
--}
+}
 
 
 -📫 How to reach me                        
 -for (i=0; i<3;i++){
 -char items[i]=
   
--{ "collaboration",
+{ "collaboration",
 -  "comments",
 -  "concerns",
 -  "Cyb3rW1ll.git@gmail.com"};
  
 -printf("items: %s", i);
--}
+}
 -return 0;
