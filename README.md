@@ -2,6 +2,7 @@
 -//This github is dedicated toward idea sharing, school projects, and all things Cyber Security
 -//Dedicated topics in Security, CTI, CTE, Threat Modeling and Detections, and coding will be
 -//pushed here from time to time.
+-//yes, it is posted in C even though it does not function...
 
 -#include <stdio.h>
 -#include <string.h>
@@ -9,7 +10,7 @@
 -#include <stdlib.h>
 -#include <math.h>
 -#include <time.h>
--
+
 -int main (int argc, char *argv[])
 -{
 -  for (i=0;i<size;i++){  
@@ -35,18 +36,17 @@
 -  fs.close();
 -  return 0;
 -}
--
--
+
+
 -//📫 How to reach me                        
 -for (i=0; i<3;i++){
 -char items[i]=
--  
+  
 -{ "collaboration",
 -  "comments",
 -  "concerns",
 -  "Cyb3rW1ll.git@gmail.com"};
--  
+ 
 -printf("items: %s", i);
 -}
 -return 0;
--
