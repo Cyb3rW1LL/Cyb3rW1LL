@@ -46,5 +46,5 @@ char items[i]=
   "Cyb3rW1ll.git@gmail.com"};
   
 printf("items: %s", i);
-return 0;
 }
+return 0;
