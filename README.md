@@ -1,4 +1,4 @@
-<!---
+<!--
 //This github is dedicated toward idea sharing, school projects, and all things Cyber Security
 //Dedicated topics in Security, CTI, CTE, Threat Modeling and Detections, and coding will be
 //pushed here from time to time.
@@ -49,4 +49,5 @@ char items[i]=
 printf("items: %s", i);
 }
 return 0;
----->
+
+-->
