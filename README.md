@@ -11,10 +11,10 @@
 #include <math.h>
 #include <time.h>
 
--int main (int argc, char *argv[])
+int main (int argc, char *argv[])
 {
--  for (i=0;i<size;i++){  
--  char url[i] ={
+  for (i=0;i<size;i++){  
+  char url[i] ={
 ```
 |URL | Description |
 |----|------------ |
@@ -37,25 +37,26 @@
 
 ```C
   };
-std::fstream fs;
-fs.open(url);
-fs.close();
-return 0;
+  std::fstream fs;
+  fs.open(url);
+  fs.close();
+  return 0;
 }
 ```
 
 -📫 How to reach me                        
 ```C
-for (j=0; j<3;j++){
-char items[j]=
-{ "collaboration",
-  "comments",
-  "concerns",
+  for (j=0; j<3;j++){
+  char items[j]=
+  { "collaboration",
+    "comments",
+    "concerns",
  ```
-  "Cyb3rW1ll.git@gmail.com"
+   "Cyb3rW1ll.git@gmail.com"
 ```C
- };
-printf("items: %s", j);
-}
+  };
+  printf("items: %s", j);
+  }
 return 0;
 ```
+}
