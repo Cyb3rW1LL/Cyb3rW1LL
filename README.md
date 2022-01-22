@@ -23,7 +23,7 @@ int main (int argc, char *argv[])
 |[](url)"https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf", |\// Att&ck training doc |
 |[](url)"https://www.youtube.com/watch?v=CfOl_yZDRnE", |\// Youtube "Navigator" overview |
 |[](url)"https://github.com/center-for-threat-informed-defense/attack-workbench-frontend", |\// Att&ack Workbench |
-|[](url)"https://engage.mitre.org/", | \// Engage page (Defense side of Att&ck |
+|[](url)"https://engage.mitre.org/", | \// Engage page (Defense side of Att&ck) |
 |[](url)"https://engage.mitre.org/matrix/", |\// Engage Matrix |
 |[](url)"https://www.youtube.com/watch?v=PdCQChYrxXg", |\// Threat Hunting for post Exploitation with ES |
 |[](url)"https://rocknsm.io/", |\// Useful collection and hunting platform |
