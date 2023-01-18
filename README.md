@@ -27,14 +27,14 @@ int main (int argc, char *argv[])
 |[](url)"https://engage.mitre.org/matrix/", |\// Engage Matrix |
 |[](url)"https://www.youtube.com/watch?v=PdCQChYrxXg", |\// Threat Hunting for post Exploitation with ES |
 |[](url)"https://rocknsm.io/", |\// Useful collection and hunting platform |
-|[](url)"https://download.rocknsm.io/isos/testing/", |\// Collection and Hunting platform ISOs, legacy only("Stable" no longer available) |
+|[](url)"https://download.rocknsm.io/isos/testing/", |\// Collection and Hunting platform ISOs, legacy only(no longer available) |
 |[](url)"https://www.youtube.com/watch?v=SA-HeOnOi2A", |\// VECTR Explanation |
 |[](url)"https://github.com/redcanaryco/atomic-red-team", |\// Atomic, what more can I say? |
 |[](url)"https://www.youtube.com/watch?v=d_E-hfKQ5Hw", |\// Atomic Demo |
 |[](url)"https://www.youtube.com/watch?v=7dEfKn70HCI", |\// Eric Conrad on Sysmon and Mimi* |
 |[](url)"https://www.youtube.com/watch?v=RdcCjDS0s6s", |\// Threathunting via DNS E.C. |
-|[](url)"https://www.youtube.com/watch?v=LVSwYyDN2Sk" |\// Build it Once, build it right! E.C. |
-
+|[](url)"https://www.youtube.com/watch?v=LVSwYyDN2Sk", |\// Build it Once, build it right! E.C. |
+|[](url)"https://github.com/qeeqbox", |\// Repo for some useful tools by Giga-a
 ```C
   };
   std::fstream fs;
