@@ -35,6 +35,7 @@ int main (int argc, char *argv[])
 |[](url)"https://www.youtube.com/watch?v=RdcCjDS0s6s", |\// Threathunting via DNS E.C. |
 |[](url)"https://www.youtube.com/watch?v=LVSwYyDN2Sk", |\// Build it Once, build it right! E.C. |
 |[](url)"https://github.com/qeeqbox", |\// Repo for some useful tools by Giga-a
+|[](url)"https://www.kali.org/blog/kali-linux-2023-1-release/", |\// R&B distro. Old concept, official release.
 ```C
   };
   std::fstream fs;
