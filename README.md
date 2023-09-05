@@ -26,8 +26,8 @@ int main (int argc, char *argv[])
 |[](url)"https://engage.mitre.org/", | \// Engage page (Defense side of Att&ck) |
 |[](url)"https://engage.mitre.org/matrix/", |\// Engage Matrix |
 |[](url)"https://www.youtube.com/watch?v=PdCQChYrxXg", |\// Threat Hunting for post Exploitation with ES |
-|[](url)~~"https://rocknsm.io/", |\// Useful collection and hunting platform~~ |
-|[](url)~~"https://download.rocknsm.io/isos/testing/", |\// Collection and Hunting platform ISOs, legacy only(no longer available)~~ |
+|[](url)~~"https://rocknsm.io/"~~, |~~\// Useful collection and hunting platform~~ |
+|[](url)~~"https://download.rocknsm.io/isos/testing/"~~, |~~\// Collection and Hunting platform ISOs, legacy only(no longer available)~~ |
 |[](url)"https://securityonionsolutions.com/software",  |\// Replaced RockNSM |
 |[](url)"https://docs.securityonion.net/en/2.3/",  |\// SO Docs |
 |[](url)"https://www.youtube.com/watch?v=SA-HeOnOi2A", |\// VECTR Explanation |
