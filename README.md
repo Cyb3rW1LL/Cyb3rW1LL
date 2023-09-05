@@ -26,16 +26,20 @@ int main (int argc, char *argv[])
 |[](url)"https://engage.mitre.org/", | \// Engage page (Defense side of Att&ck) |
 |[](url)"https://engage.mitre.org/matrix/", |\// Engage Matrix |
 |[](url)"https://www.youtube.com/watch?v=PdCQChYrxXg", |\// Threat Hunting for post Exploitation with ES |
-|[](url)"https://rocknsm.io/", |\// Useful collection and hunting platform |
-|[](url)"https://download.rocknsm.io/isos/testing/", |\// Collection and Hunting platform ISOs, legacy only(no longer available) |
+~|[](url)"https://rocknsm.io/", |\// Useful collection and hunting platform |
+~|[](url)"https://download.rocknsm.io/isos/testing/", |\// Collection and Hunting platform ISOs, legacy only(no longer available) |
+|[](url)"https://securityonionsolutions.com/software",  |\// Replaced RockNSM |
+|[](url)"https://docs.securityonion.net/en/2.3/",  |\// SO Docs |
 |[](url)"https://www.youtube.com/watch?v=SA-HeOnOi2A", |\// VECTR Explanation |
 |[](url)"https://github.com/redcanaryco/atomic-red-team", |\// Atomic, what more can I say? |
 |[](url)"https://www.youtube.com/watch?v=d_E-hfKQ5Hw", |\// Atomic Demo |
 |[](url)"https://www.youtube.com/watch?v=7dEfKn70HCI", |\// Eric Conrad on Sysmon and Mimi* |
 |[](url)"https://www.youtube.com/watch?v=RdcCjDS0s6s", |\// Threathunting via DNS E.C. |
 |[](url)"https://www.youtube.com/watch?v=LVSwYyDN2Sk", |\// Build it Once, build it right! E.C. |
-|[](url)"https://github.com/qeeqbox", |\// Repo for some useful tools by Giga-a
-|[](url)"https://www.kali.org/blog/kali-linux-2023-1-release/", |\// R&B distro. Old concept, official release.
+|[](url)"https://github.com/qeeqbox", |\// Repo for some useful tools by Giga-a |
+|[](url)"https://www.kali.org/blog/kali-linux-2023-1-release/", |\// R&B distro. Old concept, official release. |
+|[](url)"https://gchq.github.io/CyberChef/",  |\// Swiss Army Knife of deobfuscation, hashing, and encryption. |
+|[](url)"https://www.geoffchappell.com/about/analysis.htm",  |\// RIP Mr.Geoff, awesome RE! |
 ```C
   };
   std::fstream fs;
