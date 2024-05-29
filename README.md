@@ -1,21 +1,4 @@
-```C
-*//This github is dedicated toward idea sharing, education and research projects, and all things Cyber Security
-*//Dedicated topics in Security, CTI, CTE, Threat Modeling and Detections, and coding will be
-*//pushed here from time to time.
-*//yes, it is posted in C even though it does not function...
-
-#include <stdio.h>
-#include <string.h>
-#include <fstream>
-#include <stdlib.h>
-#include <math.h>
-#include <time.h>
-
-int main (int argc, char *argv[])
-{
-  for (i=0;i<size;i++){  
-  char url[i] ={
-```
+<iframe src="https://giphy.com/embed/26gsiDT9Uryxw6wIE" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-26gsiDT9Uryxw6wIE">via GIPHY</a></p>
 |URL | Description |
 |----|------------ |
 |[](url)"https://mitre-attack.github.io/attack-navigator/", |\// Att&ck Navigator for CTI |
