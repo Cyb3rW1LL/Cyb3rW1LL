@@ -1,5 +1,4 @@
 
-'''C
 |URL | Description |
 |----|------------ |
 |[](url)"https://mitre-attack.github.io/attack-navigator/", |\// Att&ck Navigator for CTI |
