@@ -1,1 +1,3 @@
-![samurai-jack-aku](https://github.com/Cyb3rW1LL/Cyb3rW1LL/assets/39623516/c2637b16-1e72-4569-af6e-ba267be684b9)
+<div> align='center'>
+![thunder-cats-thundera](https://github.com/Cyb3rW1LL/Cyb3rW1LL/assets/39623516/90ea2ee4-6da7-4881-b1d5-6368284feeb2)
+</div>
