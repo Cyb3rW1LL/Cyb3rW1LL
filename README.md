@@ -1,7 +1,5 @@
-<iframe src="https://giphy.com/embed/26gsiDT9Uryxw6wIE" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-26gsiDT9Uryxw6wIE">via GIPHY</a></p>
-'''C
 
-'''
+'''C
 |URL | Description |
 |----|------------ |
 |[](url)"https://mitre-attack.github.io/attack-navigator/", |\// Att&ck Navigator for CTI |
