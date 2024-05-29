@@ -1,5 +1,6 @@
 
-|URL | Description |
+|URL | Description |![samurai-jack-aku](https://github.com/Cyb3rW1LL/Cyb3rW1LL/assets/39623516/c2637b16-1e72-4569-af6e-ba267be684b9)
+
 |----|------------ |
 |[](url)"https://mitre-attack.github.io/attack-navigator/", |\// Att&ck Navigator for CTI |
 |[](url)"https://mitre-attack.github.io/attack-navigator/v2/enterprise/", |\// Att&ck "Enterprise" page |
